@@ -1,4 +1,4 @@
-package src;
+package atividade01_herois;
 
 public class Main {
 
